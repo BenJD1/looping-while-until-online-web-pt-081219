@@ -3,7 +3,7 @@ def using_until
   #your code here
     
   end
-  until 
+  until levitation_force == 10
   
   
   
